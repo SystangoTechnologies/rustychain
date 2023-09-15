@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/SystangoTechnologies/rustychain/blob/master/docs/images/logo.jpeg" alt="rustychain"></a>
+  <a><img src="https://github.com/SystangoTechnologies/rustychain/blob/main/docs/images/logo.jpeg" alt="rustychain"></a>
   <br>
   Rust Web Starter-kit
   <br>
@@ -146,7 +146,7 @@ Folder structure:
 ## Database Schema ##
 The current schema looks as follows:
 
-<img src="https://github.com/SystangoTechnologies/rustychain/blob/master/docs/images/schema.png" alt="rusty chain"></a>
+<img src="https://github.com/SystangoTechnologies/rustychain/blob/main/docs/images/schema.png" alt="rustychain db schema"></a>
 
 
 ## REST API Calls 
@@ -482,17 +482,17 @@ http://localhost:8080/api
 ### Swagger URL
 http://localhost:8080/swagger-ui/
 
-<img src="https://github.com/SystangoTechnologies/rustychain/blob/master/docs/images/swagger.png" alt="swagger ui"></a>
+<img src="https://github.com/SystangoTechnologies/rustychain/blob/main/docs/images/swagger.png" alt="swagger ui"></a>
 
 ### Redoc URL
 http://localhost:8080/redoc
 
-<img src="https://github.com/SystangoTechnologies/rustychain/blob/master/docs/images/redoc.png" alt="redoc"></a>
+<img src="https://github.com/SystangoTechnologies/rustychain/blob/main/docs/images/redoc.png" alt="redoc"></a>
 
 ### Rapidoc URL
 http://localhost:8080/rapidoc
 
-<img src="https://github.com/SystangoTechnologies/rustychain/blob/master/docs/images/rapidoc.png" alt="rapidoc"></a>
+<img src="https://github.com/SystangoTechnologies/rustychain/blob/main/docs/images/rapidoc.png" alt="rapidoc"></a>
 
 
 ## Contributors ##
